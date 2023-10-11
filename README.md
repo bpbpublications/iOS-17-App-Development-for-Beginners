@@ -5,7 +5,7 @@ Learn iOS app development from scratch and build your dream app
 This is the repository for [iOS 17 App Development for Beginners 
 ](https://bpbonline.com/products/ios-17-app-development-for-beginners),published by BPB Publications.
 
-<img src="9789355518019.jpg">
+<img src="9789355515858.jpg">
 
 ## About the Book
 “iOS 17 App Development for Beginners” is a definitive guide to building iOS apps with Swift.
